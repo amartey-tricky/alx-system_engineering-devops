@@ -17,3 +17,4 @@ This project is about learning the basics of `Shell Scripting` and how to use it
 | [1-listit](1-listit) | List files and directories in the current working directory |
 | [2-bring_me_home](2-bring_me_home) | Changes the working directory to the home directory |
 | [3-listfiles](3-listfiles) | List files and directories in the directory using the long format |
+| [4-listmorefiles](4-listmorefiles) | List files and directories in the directory using the long format including hidden files |
