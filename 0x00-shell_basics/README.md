@@ -21,3 +21,4 @@ This project is about learning the basics of `Shell Scripting` and how to use it
 | [5-listfilesdigitonly](5-listfilesdigitonly) | List files that begin with a number only |
 | [6-firstdirectory](6-firstdirectory) | Create directory `my_first_directory` in the directory `/tmp` |
 | [7-movethatfile](7-movethatfile) | Move `/tmp/betty` to `/tmp/my_first_directory/` |
+| [8-firstdelete](8-firstdelete) | Delete file `betty` |
