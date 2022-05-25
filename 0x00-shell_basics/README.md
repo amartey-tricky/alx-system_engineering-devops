@@ -22,3 +22,4 @@ This project is about learning the basics of `Shell Scripting` and how to use it
 | [6-firstdirectory](6-firstdirectory) | Create directory `my_first_directory` in the directory `/tmp` |
 | [7-movethatfile](7-movethatfile) | Move `/tmp/betty` to `/tmp/my_first_directory/` |
 | [8-firstdelete](8-firstdelete) | Delete file `betty` |
+| [9-firstdirdeletion](9-firstdirdeletion) | Delete `/tmp/my_first_directory/` directory |
