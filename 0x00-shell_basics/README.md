@@ -19,3 +19,4 @@ This project is about learning the basics of `Shell Scripting` and how to use it
 | [3-listfiles](3-listfiles) | List files and directories in the directory using the long format |
 | [4-listmorefiles](4-listmorefiles) | List files and directories in the directory using the long format including hidden files |
 | [5-listfilesdigitonly](5-listfilesdigitonly) | List files that begin with a number only |
+| [6-firstdirectory](6-firstdirectory) | Create directory `my_first_directory` in the directory `/tmp` |
